@@ -60,7 +60,7 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/campground
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/lucasweng/yelp-camp.git
+git clone https://github.com/MirzayevFarid/Yelp-Camp.git
 ```
 
 ### Install dependencies
