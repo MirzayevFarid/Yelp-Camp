@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://yelpcamp--demo.herokuapp.com/)
+To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/campgrounds](https://yelpcamp--demo.herokuapp.com/campgrounds)
 
 ## Features
 
@@ -36,8 +36,6 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://
   * Search existing campgrounds
 
 * Manage user account with basic functionalities:
-
-  * ~~Password reset via email confirmation~~ (disabled)
 
   * Profile page setup with sign-up
 
